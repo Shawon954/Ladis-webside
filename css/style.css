@@ -1,0 +1,49 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+}
+.pic{
+    width: 60%;
+     margin-left: 80px;
+}
+
+
+.cen{
+    margin-top: 6%;
+}
+.but{
+    margin-top: 10%;
+    padding: 10px 30px ;
+    border-radius: 10px;
+    background-color: olivedrab;
+    color: white;
+    border: 0px;
+}
+.tcolor{
+    color: orange;
+}
+.ttcolor{
+    color:navy;
+}
+.bord{
+    border: 0px;
+}
+.bor{
+  border: 0px;
+}
+
+.foot{
+    background-color: white;
+    border: 0px;
+}
+.cbody{
+    margin-top: 70px;
+}
+.borddar img{
+    border: 0px;
+}
+.bbr{
+    border: 0px;
+}
+.fot{
+    text-align: center;
+}
